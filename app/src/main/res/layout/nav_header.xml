@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:自定义="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="@dimen/spacing_medium"
+    android:paddingBottom="@dimen/spacing_medium"
+    android:paddingLeft="@dimen/spacing_medium"
+    android:paddingRight="@dimen/spacing_medium"
+    android:background="@color/colorPrimary">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/nav_header_user_picture"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="@dimen/spacing_medium"
+        自定义:placeholderImage="@drawable/user_picture_placeholder"
+        自定义:placeholderImageScaleType="centerCrop"
+        自定义:roundAsCircle="true"/>
+
+    <TextView
+        android:id="@+id/nav_header_user_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/nav_header_user_picture"
+        android:layout_toRightOf="@+id/nav_header_user_picture"/>
+
+    <TextView
+        android:id="@+id/nav_header_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/nav_header_user_picture"
+        android:layout_below="@+id/nav_header_user_name"
+        android:layout_marginLeft="@dimen/nav_header_login_btn_margin_left"
+        android:text="@string/logout"/>
+
+</RelativeLayout>

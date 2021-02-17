@@ -74,7 +74,7 @@ public class Tiktok {
         return accessToken != null;
     }
 
-    public static void logout(Context context) {
+    public static void unStoreTokenAndUserByContextSharedPreferrence(Context context) {
         storeAccessTokenToDisk(context, null);
         storeUserToDisk(context, null);
 
@@ -118,7 +118,7 @@ public class Tiktok {
         return parseResponse(makeHttpRequest(authRequestBuilder(USER_END_POINT).build()), USER_TYPE);
     }
 
-    public static List<Shot> getShots(int page) throws IOException, JsonSyntaxException {
+    public static List<Shot> callGetShotsApi(int page) throws IOException, JsonSyntaxException {
         return parseResponse(makeHttpRequest(authRequestBuilder(SHOTS_END_POINT + "?page"+page).build()), SHOT_LIST_TYPE);
     }
 }
