@@ -8,3 +8,5 @@ https://medium.com/android-news/android-interview-questions-cheat-sheet-part-ii-
 
 
 https://www.1point3acres.com/bbs/thread-529364-1-1.html
+
+https://github.com/android/architecture-samples/tree/todo-mvvm-databinding
