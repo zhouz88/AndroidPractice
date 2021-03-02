@@ -19,4 +19,6 @@ https://blog.csdn.net/freak_csh/article/details/91360567
 
 原理 显示 https://blog.csdn.net/qq_38366777/article/details/108913721
 
+ViewRootimpl 初始化 https://www.jianshu.com/p/602d89421083
+
 运行 堆栈 信息 https://blog.csdn.net/ID19870510/article/details/46683501
