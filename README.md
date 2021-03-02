@@ -22,3 +22,5 @@ https://blog.csdn.net/freak_csh/article/details/91360567
 ViewRootimpl 初始化 https://www.jianshu.com/p/602d89421083
 
 运行 堆栈 信息 https://blog.csdn.net/ID19870510/article/details/46683501
+
+ac/application 创建 https://blog.csdn.net/hzwailll/article/details/85339714
