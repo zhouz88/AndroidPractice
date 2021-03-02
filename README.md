@@ -1,8 +1,8 @@
-# Tiktok
+# Practice
 
 https://medium.com/android-news/android-interview-questions-cheat-sheet-96ea01c88def
 
-
+http://gityuan.com/2015/09/19/android-touch/
 
 https://medium.com/android-news/android-interview-questions-cheat-sheet-part-ii-bea0633f0da7
 
