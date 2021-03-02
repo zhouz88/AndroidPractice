@@ -13,3 +13,6 @@ https://github.com/android/architecture-samples/tree/todo-mvvm-databinding
 
 
 https://blog.csdn.net/freak_csh/article/details/91360567
+
+
+原理 click https://www.jianshu.com/p/38015afcdb58/
