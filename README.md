@@ -25,5 +25,6 @@ ViewRootimpl 初始化 https://www.jianshu.com/p/602d89421083
 
 ac/application 创建 https://blog.csdn.net/hzwailll/article/details/85339714
 
+WMS https://www.jianshu.com/p/9e244d13b866
 
 消息队列 https://genzzhang.github.io/Android%E8%A7%A6%E6%91%B8%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/
